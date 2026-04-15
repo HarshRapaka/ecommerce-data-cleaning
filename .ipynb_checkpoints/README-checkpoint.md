@@ -12,12 +12,12 @@ This project simulates a client scenario where raw transactional data is cleaned
 ## Data Transformation Preview
 
 <p align="center">
-  <img src="assets/before_data.png" alt="Raw Messy Data" width="45%"/>
-  <img src="assets/after_data.png" alt="Cleaned Structured Data" width="45%"/>
+  <img src="assets/images/before_data.png" width="45%" />
+  <img src="assets/images/after_data.png" width="45%" />
 </p>
 
 <p align="center">
-  <em>Before: Raw, inconsistent dataset &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; After: Clean, structured dataset</em>
+  <i>Before: Raw, inconsistent dataset &nbsp;&nbsp;|&nbsp;&nbsp; After: Clean, structured dataset</i>
 </p>
 
 ---
